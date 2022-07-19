@@ -332,6 +332,9 @@
 
 
   ;; repeat for other string pairs
+  (goto-char (point-min))
+  (while (isearch-forward-regexp "\b\.\b" nil t)
+    (replace-match ""))    
 
   ))
 (global-set-key (kbd "C-x y") 'oysolscript)
