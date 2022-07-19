@@ -43,3 +43,4 @@ oya는 ㅗㅑ일까요? ㅚㅏ일까요? 사실 이런 문제가 한두 군데�
 다른 로마자 기반 언어가 섞여 있으면 사용하기 어려운 문제가 있으므로, 현재 문단으로 범위를 한정하거나, 선택된 부분이 있으면 그 영역으로 한정하거나 하는 방식을 추가할 것입니다.
 ** 참고 문서
 http://xahlee.info/emacs/emacs/elisp_find_replace_text.html
+http://xahlee.info/emacs/emacs/elisp_repeat_replace.html
